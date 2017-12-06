@@ -1,0 +1,16 @@
+.ConnectFourGame {
+	display: block;
+}
+
+.GameArea {
+	float: center;
+
+	vertical-align: center;
+}
+
+.Board {
+	position: absolute;
+
+	left: 200px;
+	top: 5px;
+}

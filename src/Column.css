@@ -1,0 +1,40 @@
+.Column {
+	float: left;
+
+	width: 20px;
+
+	border: 2px solid black;
+	background: #DDEEFF;
+}
+
+.Square {
+	height: 20px;
+	width: 20px;
+
+	border: 2px solid black;
+	background: #DDEEFF;
+}
+
+.OneSquare {
+	height: 20px;
+	width: 20px;
+
+	border: 2px solid black;
+	background: white;
+}
+
+.TwoSquare {
+	height: 20px;
+	width: 20px;
+
+	border: 2px solid black;
+	background: black;
+}
+
+.ErrorSquare {
+	height: 20px;
+	width: 20px;
+
+	border: 2px solid black;
+	background: red;
+}
